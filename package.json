@@ -1,0 +1,19 @@
+{
+  "name": "express-postgres-app",
+  "version": "1.0.0",
+  "description": "a simple crud app using express and postgres.",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon server"
+  },
+  "author": "vincent diégane faye",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.3.0",
+    "pg": "^7.14.0"
+  }
+}
