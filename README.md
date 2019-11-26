@@ -6,4 +6,3 @@
     - npm run server
    - Install Postgres then create a database.
 And then taste !!!
-vincent diégane faye full stack developper !!!
